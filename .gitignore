@@ -1,0 +1,10 @@
+results/**/*.csv
+results/**/*.xml
+results/**/*.json
+results/**/*.txt
+results/**/*.sqlite
+log
+**/input/*
+lab
+request.txt
+jwt

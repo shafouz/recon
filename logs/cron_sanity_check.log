@@ -1,0 +1,3 @@
+shell -> /usr/bin/zsh
+path -> /home/shafou/.cargo/bin:/usr/bin:/bin:/home/shafou/.local/bin
+utils -> /home/shafou/stow/recon/recon/utils/utils.sh

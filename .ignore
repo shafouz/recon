@@ -1,0 +1,4 @@
+# results/*
+.gitkeep
+*.txt
+*.csv

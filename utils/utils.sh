@@ -2,6 +2,7 @@
 
 # ENV
 
+export results_path_test="$results/19-10-22/subdomains"
 export wk="/home/shafou/workspace"
 export stow="/home/shafou/stow"
 export recon="/home/shafou/recon"
@@ -13,8 +14,9 @@ export burpext="/home/shafou/workspace/burp/"
 export tools=(ffuf puredns)
 export rust="/home/shafou/workspace/rust"
 export today="$(date -d "today" +%d-%m-%y)"
-export bolpath="/home/shafou/workspace/bh/bol/mobile/apk/1/"
 export wl="/home/shafou/workspace/wordlists"
+export programs="/home/shafou/workspace/programs"
+export AIRFLOW_HOME="/home/shafou/airflow"
 
 # CLI
 linkfinder(){

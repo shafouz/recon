@@ -1,0 +1,8 @@
+goteleport.com
+www.goteleport.com
+blog.goteleport.com
+docs.goteleport.com
+dashboard.goteleport.com
+community.goteleport.com
+b.ns.goteleport.com
+a.ns.goteleport.com

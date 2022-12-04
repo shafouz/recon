@@ -1,0 +1,17 @@
+b.ns.goteleport.com
+email.goteleport.com
+o2.ptr2652.goteleport.com
+gslink.goteleport.com
+docs.goteleport.com
+a.ns.goteleport.com
+blog.goteleport.com
+www.goteleport.com
+community.goteleport.com
+mta-sts.goteleport.com
+trust.goteleport.com
+status.goteleport.com
+url7864.goteleport.com
+em.goteleport.com
+s.goteleport.com
+learn.goteleport.com
+support.goteleport.com

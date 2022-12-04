@@ -1,0 +1,15 @@
+b.ns.goteleport.com
+a.ns.goteleport.com
+email.goteleport.com
+blog.goteleport.com
+www.goteleport.com
+docs.goteleport.com
+o2.ptr2652.goteleport.com
+community.goteleport.com
+trust.goteleport.com
+url7864.goteleport.com
+s.goteleport.com
+status.goteleport.com
+support.goteleport.com
+learn.goteleport.com
+em.goteleport.com

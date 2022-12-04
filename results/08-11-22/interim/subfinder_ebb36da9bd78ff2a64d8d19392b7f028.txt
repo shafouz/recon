@@ -1,0 +1,13 @@
+apt.releases.teleport.dev
+cdn.teleport.dev
+charts.releases.teleport.dev
+deb.releases.teleport.dev
+drone.teleport.dev
+rpm.releases.teleport.dev
+stg-usage.teleport.dev
+teleport.dev
+terraform-staging.releases.teleport.dev
+terraform.releases.teleport.dev
+usage.teleport.dev
+www.teleport.dev
+yum.releases.teleport.dev
